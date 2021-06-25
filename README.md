@@ -1,4 +1,4 @@
-# HBD-Resale-Prediction-Model-App
+# HBD Resale Prices Prediction Model App
 
 <!-- ABOUT THE PROJECT -->
 
